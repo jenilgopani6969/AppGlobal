@@ -1,0 +1,3 @@
+include ':AppGloble'
+include ':app'
+rootProject.name = "AppGloble"
